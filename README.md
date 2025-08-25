@@ -68,7 +68,4 @@ For more details, refer to [docs/placeholder.md](docs/placeholder.md).
 Hi there! I'm **Arinze Chinecherem Sylvia**, also known as **Nechethia**. I’m an Data Analystand Engineer, passionate about data and likes sharing my knowledge on data.
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
-[![https://www.linkedin.com/in/chinecherem-arinze-976069265?])
-
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/baraasalkini)
-[![Join](https://img.shields.io/badge/Join-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@datawithbaraa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinecherem-arinze-976069265)
