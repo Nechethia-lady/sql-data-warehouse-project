@@ -60,7 +60,6 @@ Develop SQL-based analytics to deliver detailed insights into:
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
 
-For more details, refer to [docs/placeholder.md](docs/placeholder.md).
 
 
 ## 🌟 About Me
